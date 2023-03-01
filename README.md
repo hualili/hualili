@@ -2,7 +2,7 @@
 - 👀 My experience and expertise are in Computer Vision, Embedded Systems, Edge AI and Roboitcs. 
 - 🌱 I’m currently working on robotic systems applications for sustainable development and physically challenged people, and
 - AI with AR-VR and Unity Interactive 3D Graphics. 
-- 💞️ I’m looking forward to collaborating on the above mentioned fields. 
+- 💞️ I’m looking forward to collaborating with you on the above mentioned fields. 
 - 📫 How to reach me: hua.li@sjsu.edu
 
 <!---
